@@ -1,0 +1,7 @@
+IMPORTANT
+
+libaries needed
+
+pygame
+
+To install any, do: pip install [name of the libary]
